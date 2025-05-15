@@ -1,7 +1,5 @@
 from lossless_RLE import RLE
-import cv2
 import numpy as np
-import os
 
 
 class Lossy_RLE:

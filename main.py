@@ -7,7 +7,6 @@ import cv2
 from lossless_RLE import RLE
 from RLE_LRLE_utilities import Utilities
 from lossy_RLE import Lossy_RLE
-from PIL import Image, ImageTk
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 
